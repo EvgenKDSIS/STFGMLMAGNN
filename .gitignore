@@ -4,8 +4,6 @@ __pycache__/
 .venv/
 venv/
 .env
-data/
-results/
 *.pt
 *.pth
 .idea/
